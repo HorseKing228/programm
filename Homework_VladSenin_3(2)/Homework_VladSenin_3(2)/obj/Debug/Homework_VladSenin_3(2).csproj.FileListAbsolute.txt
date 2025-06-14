@@ -1,0 +1,8 @@
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\bin\Debug\3.2.exe.config
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\bin\Debug\3.2.exe
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\bin\Debug\3.2.pdb
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\obj\Debug\3.2.csproj.AssemblyReference.cache
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\obj\Debug\3.2.csproj.CoreCompileInputs.cache
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\obj\Debug\3.2.exe
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\obj\Debug\3.2.pdb
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 3\3.2\3.2\obj\Debug\3.2.exe.config
