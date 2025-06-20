@@ -1,0 +1,8 @@
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\bin\Debug\4.1.exe.config
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\bin\Debug\4.1.exe
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\bin\Debug\4.1.pdb
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\obj\Debug\4.1.csproj.AssemblyReference.cache
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\obj\Debug\4.1.exe
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\obj\Debug\4.1.pdb
+C:\Users\emelk\OneDrive\Документы\Домашка C#\Homework 4\4.1\4.1\obj\Debug\4.1.exe.config
